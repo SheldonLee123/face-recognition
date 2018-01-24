@@ -3,9 +3,9 @@
 from aip import AipFace
 
 #定义常亮
-APP_ID = '10724207'
-API_KEY = 'SMX2M0Hi7TZp7PpK4NoX6hW2'
-SECRET_KEY = '3rM1LCiTpvxzwOxGfWXKpstX3FPOtkXT'
+APP_ID = 'x'
+API_KEY = 'x'
+SECRET_KEY = 'x'
 
 #初始化AipFace对象
 aipFace = AipFace(APP_ID, API_KEY, SECRET_KEY)
