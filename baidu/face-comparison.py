@@ -16,8 +16,8 @@ def get_file_content(filepath):
 		return fp.read()
 
 images = {
-	get_file_content('image0.jpg'),
-	get_file_content('image1.jpg')
+	get_file_content('../img/image0.jpg'),
+	get_file_content('../img/image1.jpg')
 }
 
 '''可选参数'''

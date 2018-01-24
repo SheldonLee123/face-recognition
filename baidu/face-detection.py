@@ -13,7 +13,7 @@ SECRET_KEY = '3rM1LCiTpvxzwOxGfWXKpstX3FPOtkXT'
 aipFace = AipFace(APP_ID, API_KEY, SECRET_KEY)
 
 # 读取图片  
-filePath = "image.jpg"
+filePath = "../img/image.jpg"
 
 
 def get_file_content(filePath):
