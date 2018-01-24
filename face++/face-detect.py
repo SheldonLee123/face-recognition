@@ -7,8 +7,8 @@ import os
   
 http_url ="https://api-cn.faceplusplus.com/facepp/v3/detect"  
 # your key and your secret
-key ="J1wd2b6773wcsNplXPvIaDHsHXnNgb7Z"  
-secret ="EXhp6sXAkT7rP1UloqJ6a8eOtBDfGEjm"      
+key ="x"  
+secret ="x"      
                    
 filepath = "../img/image.jpg"  
 data = {"api_key":key, "api_secret":secret, "return_landmark":"1"}  
